@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Nikita But</h1>
+<h1 align="center">Hi 👋, I'm Nikita But</h1>
 <h3 align="center">A Game Programmer from Israel</h3>
 
 - 🔭 I’m currently working on **Unreal Engine and Unity**

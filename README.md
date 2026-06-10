@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nikita But</h1>
-<h3 align="center">A Game Programmer from Israel</h3>
+# Hi, I'm Nikita Booth
 
-- 🔭 I’m currently working on **Unreal Engine and Unity**
+### AI Solutions Engineer — Israel
 
-- 👨‍💻 All of my projects are available at [https://nikitabut.hhos.net/](https://nikitabut.hhos.net/)
+I build production AI systems end-to-end: LLM evaluation, prompt engineering, RAG pipelines, and multi-agent orchestration. Currently running [QuantPlace](https://quantplace.org) — a Data-as-a-Service platform for prediction market data, with its own MCP server.
 
-- 📫 How to reach me **kvintero08@gmail.com**
+**What I work with:** Python · FastAPI · LangChain · LangGraph · MCP · Azure AI Foundry · n8n · PostgreSQL · Qdrant · Docker
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nikita-but-949116263/](https://www.linkedin.com/in/nikita-but-949116263/)
+**Featured projects:**
+- [quantplace-mcp](https://github.com/KuroskeNB/quantplace-mcp) — production MCP server: AI agents (Claude, Cursor) search, preview, and evaluate datasets directly in-IDE
+- [qPrompts](https://github.com/KuroskeNB/qPrompts) — prompt engineering toolkit: reusable templates, evaluation utilities, multi-step reasoning patterns
+- AreYouAlive — LLM-powered NPC companions in Unreal Engine 5 (C++ plugin)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikita-but-949116263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikita-but-949116263/" height="30" width="40" /></a>
-<a href="https://discord.gg/247769789651615744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="247769789651615744" height="30" width="40" /></a>
-</p>
+**Background:** 3+ years of software engineering — started in C++ game development, moved into AI automation and agentic systems. That mix means I'm comfortable both at the systems level and at the LLM layer.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+**Reach me:** butmykyta@gmail.com · [LinkedIn](https://www.linkedin.com/in/nikita-but-949116263/) · [Portfolio](https://boothnikita.online)
